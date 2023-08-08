@@ -5,13 +5,20 @@
     font-family: 'Inter','Poppins', sans-serif;
     box-sizing: border-box;
 }
-body{
+
+.container{
     background-color: #E5E5FD;
     max-width: 1044px;
     border: 20px solid #1D1E4C;
     padding: 113px 97px 10px 97px;
     margin:auto;
+    overflow: scroll;
+}
+body{
    
+   
+  
+    
 }
 
 .header{
